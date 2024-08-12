@@ -1,0 +1,101 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\anaconda3\\pkgs\\et_xmlfile-1.1.0-py310haa95532_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/PKG-INFO",
+    "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/SOURCES.txt",
+    "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/dependency_links.txt",
+    "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/top_level.txt",
+    "Lib/site-packages/et_xmlfile/__init__.py",
+    "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-310.pyc",
+    "Lib/site-packages/et_xmlfile/xmlfile.py"
+  ],
+  "fn": "et_xmlfile-1.1.0-py310haa95532_0.conda",
+  "legacy_bz2_md5": "3c8f7595d3078a917955301f8d092483",
+  "license": "MIT AND PSF-2.0",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\ProgramData\\anaconda3\\pkgs\\et_xmlfile-1.1.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "d203dbe58222bc124a204a471b9eaa34",
+  "name": "et_xmlfile",
+  "package_tarball_full_path": "C:\\ProgramData\\anaconda3\\pkgs\\et_xmlfile-1.1.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "448448492145d78ae7d2c658346503358bb955c9bfc7b262386c19a21737b28d",
+        "sha256_in_prefix": "448448492145d78ae7d2c658346503358bb955c9bfc7b262386c19a21737b28d",
+        "size_in_bytes": 1814
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "97dfd9876652225b12250e513e7f0065067c99c8f205129afba8d60982ef7fda",
+        "sha256_in_prefix": "97dfd9876652225b12250e513e7f0065067c99c8f205129afba8d60982ef7fda",
+        "size_in_bytes": 222
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile-1.1.0-py3.10.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "df8fbbe1de4d3404604ec3f108cb5ae68dbc5e904d992374882661b66c76164f",
+        "sha256_in_prefix": "df8fbbe1de4d3404604ec3f108cb5ae68dbc5e904d992374882661b66c76164f",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "fa84cac04eaea481b680e9a739ce0a2e057ea4a6c1c32fb38507e2cdb982aee4",
+        "sha256_in_prefix": "fa84cac04eaea481b680e9a739ce0a2e057ea4a6c1c32fb38507e2cdb982aee4",
+        "size_in_bytes": 269
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb2aa3e460c3f6ad805613bbb86abae6c6c6617a4211d8b54b9b3ba7c6206180",
+        "sha256_in_prefix": "cb2aa3e460c3f6ad805613bbb86abae6c6c6617a4211d8b54b9b3ba7c6206180",
+        "size_in_bytes": 424
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/__pycache__/xmlfile.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "21e169023052eb524385ac751aef36bfc7b79547a97a65bd985c4f4b39507fc7",
+        "sha256_in_prefix": "21e169023052eb524385ac751aef36bfc7b79547a97a65bd985c4f4b39507fc7",
+        "size_in_bytes": 3223
+      },
+      {
+        "_path": "Lib/site-packages/et_xmlfile/xmlfile.py",
+        "path_type": "hardlink",
+        "sha256": "fe1db44516f7a6d0d9eb15e8c4c53f5abc7cac6e9466c8344d2ec710eae8b738",
+        "sha256_in_prefix": "fe1db44516f7a6d0d9eb15e8c4c53f5abc7cac6e9466c8344d2ec710eae8b738",
+        "size_in_bytes": 3204
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "52c7a4e1f000733f45ecbb5a529fc97ff87bd6266eecdb2815ee5c715346ad56",
+  "size": 10318,
+  "subdir": "win-64",
+  "timestamp": 1642591488184,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/et_xmlfile-1.1.0-py310haa95532_0.conda",
+  "version": "1.1.0"
+}

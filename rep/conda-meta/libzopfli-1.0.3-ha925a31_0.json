@@ -1,0 +1,144 @@
+{
+  "build": "ha925a31_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\.conda\\pkgs\\libzopfli-1.0.3-ha925a31_0",
+  "features": "",
+  "files": [
+    "Library/bin/zopfli.dll",
+    "Library/bin/zopfli.exe",
+    "Library/bin/zopflipng.dll",
+    "Library/bin/zopflipng.exe",
+    "Library/include/zopfli/gzip_container.h",
+    "Library/include/zopfli/zlib_container.h",
+    "Library/include/zopfli/zopfli.h",
+    "Library/include/zopfli/zopflipng_lib.h",
+    "Library/lib/cmake/Zopfli/ZopfliConfig-release.cmake",
+    "Library/lib/cmake/Zopfli/ZopfliConfig.cmake",
+    "Library/lib/cmake/Zopfli/ZopfliConfigVersion.cmake",
+    "Library/lib/zopfli.lib",
+    "Library/lib/zopflipng.lib"
+  ],
+  "fn": "libzopfli-1.0.3-ha925a31_0.conda",
+  "legacy_bz2_md5": "532177b4105c87e006d9f49ba8ad399f",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\Admin\\.conda\\pkgs\\libzopfli-1.0.3-ha925a31_0",
+    "type": 1
+  },
+  "md5": "a426e4ed4d684145aceffa9a67c28dfc",
+  "name": "libzopfli",
+  "package_tarball_full_path": "C:\\Users\\Admin\\.conda\\pkgs\\libzopfli-1.0.3-ha925a31_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/zopfli.dll",
+        "path_type": "hardlink",
+        "sha256": "1addd484cfbef00bc8114a7438ebcaad88532fcf8af84ec7b16e210b3ad81797",
+        "sha256_in_prefix": "1addd484cfbef00bc8114a7438ebcaad88532fcf8af84ec7b16e210b3ad81797",
+        "size_in_bytes": 63488
+      },
+      {
+        "_path": "Library/bin/zopfli.exe",
+        "path_type": "hardlink",
+        "sha256": "beab716886e73003c8e517913beb91c09790fbea7ff6a7e28ee185172b6cb9f2",
+        "sha256_in_prefix": "beab716886e73003c8e517913beb91c09790fbea7ff6a7e28ee185172b6cb9f2",
+        "size_in_bytes": 13824
+      },
+      {
+        "_path": "Library/bin/zopflipng.dll",
+        "path_type": "hardlink",
+        "sha256": "56141d9c0cc417749cd68dce10a06441ef2707d45ff48fac33fcf84b1c21efe6",
+        "sha256_in_prefix": "56141d9c0cc417749cd68dce10a06441ef2707d45ff48fac33fcf84b1c21efe6",
+        "size_in_bytes": 342528
+      },
+      {
+        "_path": "Library/bin/zopflipng.exe",
+        "path_type": "hardlink",
+        "sha256": "b39b690f5cf72e92f0733eeb6e89e44c17697df81eece824b05253b830d3f616",
+        "sha256_in_prefix": "b39b690f5cf72e92f0733eeb6e89e44c17697df81eece824b05253b830d3f616",
+        "size_in_bytes": 33792
+      },
+      {
+        "_path": "Library/include/zopfli/gzip_container.h",
+        "path_type": "hardlink",
+        "sha256": "8d687a588f5638965e4881802a30a547601b32ea7cb686218afbfb25ef1f0f42",
+        "sha256_in_prefix": "8d687a588f5638965e4881802a30a547601b32ea7cb686218afbfb25ef1f0f42",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "Library/include/zopfli/zlib_container.h",
+        "path_type": "hardlink",
+        "sha256": "7744d8afea2acca76c8e9f823c4f8df3c7545ec8c9fbe0ea14b67d35f5f7c52f",
+        "sha256_in_prefix": "7744d8afea2acca76c8e9f823c4f8df3c7545ec8c9fbe0ea14b67d35f5f7c52f",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "Library/include/zopfli/zopfli.h",
+        "path_type": "hardlink",
+        "sha256": "9cff9d2ed11be71b8bc82aed0afd2ed47391609c138ae2bb3dc18730e62ddcb1",
+        "sha256_in_prefix": "9cff9d2ed11be71b8bc82aed0afd2ed47391609c138ae2bb3dc18730e62ddcb1",
+        "size_in_bytes": 2536
+      },
+      {
+        "_path": "Library/include/zopfli/zopflipng_lib.h",
+        "path_type": "hardlink",
+        "sha256": "458020a6b3889d650bce2d38966144fbab928199097388815eb4398a9fc949ba",
+        "sha256_in_prefix": "458020a6b3889d650bce2d38966144fbab928199097388815eb4398a9fc949ba",
+        "size_in_bytes": 3458
+      },
+      {
+        "_path": "Library/lib/cmake/Zopfli/ZopfliConfig-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "825c222937cb19d05e8cbebf44898b15eba260349c19c80d9f131ce086b5a895",
+        "sha256_in_prefix": "825c222937cb19d05e8cbebf44898b15eba260349c19c80d9f131ce086b5a895",
+        "size_in_bytes": 2364
+      },
+      {
+        "_path": "Library/lib/cmake/Zopfli/ZopfliConfig.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/libzopfli_1593187566102/_h_env",
+        "sha256": "7f371cf629538acb70b246ca9861d8be2184ea2a2598cb14e79765cfc1903343",
+        "sha256_in_prefix": "4fda69dcd7c82f7d38caa85cd14ae473c78f87b41cdfcca26535ab578a6a1965",
+        "size_in_bytes": 3873
+      },
+      {
+        "_path": "Library/lib/cmake/Zopfli/ZopfliConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "9d629e64e92686e7ebc4468178e69c37f3134448125a8de33cb0bf0fabe1c92e",
+        "sha256_in_prefix": "9d629e64e92686e7ebc4468178e69c37f3134448125a8de33cb0bf0fabe1c92e",
+        "size_in_bytes": 1773
+      },
+      {
+        "_path": "Library/lib/zopfli.lib",
+        "path_type": "hardlink",
+        "sha256": "c59333f229db5eaa8b5121b7ad68530b80fb0161fb9f075b323894335ed679a2",
+        "sha256_in_prefix": "c59333f229db5eaa8b5121b7ad68530b80fb0161fb9f075b323894335ed679a2",
+        "size_in_bytes": 11004
+      },
+      {
+        "_path": "Library/lib/zopflipng.lib",
+        "path_type": "hardlink",
+        "sha256": "ea520ed83cec56bcaa2fc5728f08a59c8982671927a2dabe4c69813c06fdea82",
+        "sha256_in_prefix": "ea520ed83cec56bcaa2fc5728f08a59c8982671927a2dabe4c69813c06fdea82",
+        "size_in_bytes": 820922
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b65eb7b4003c4ec882c17839f219b7249da8d3016e030af64130d21e63139124",
+  "size": 180284,
+  "subdir": "win-64",
+  "timestamp": 1593187626221,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libzopfli-1.0.3-ha925a31_0.conda",
+  "version": "1.0.3"
+}

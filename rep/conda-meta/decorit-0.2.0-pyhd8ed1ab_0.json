@@ -1,0 +1,129 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "beartype >=0.10.4",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\.conda\\pkgs\\decorit-0.2.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/decorit-0.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/decorit-0.2.0.dist-info/LICENSE",
+    "Lib/site-packages/decorit-0.2.0.dist-info/METADATA",
+    "Lib/site-packages/decorit-0.2.0.dist-info/RECORD",
+    "Lib/site-packages/decorit-0.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/decorit-0.2.0.dist-info/WHEEL",
+    "Lib/site-packages/decorit-0.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/decorit-0.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/decorit/__init__.py",
+    "Lib/site-packages/decorit/decorit.py",
+    "Lib/site-packages/decorit/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/decorit/__pycache__/decorit.cpython-310.pyc"
+  ],
+  "fn": "decorit-0.2.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Admin\\.conda\\pkgs\\decorit-0.2.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "e17b8337b778cbf7080164a3f882f09d",
+  "name": "decorit",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Admin\\.conda\\pkgs\\decorit-0.2.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "eba472cfb9b8dd1eac58bca19e30516f40f308a8e54eaf6dcf1121c69c5e209e",
+        "sha256_in_prefix": "eba472cfb9b8dd1eac58bca19e30516f40f308a8e54eaf6dcf1121c69c5e209e",
+        "size_in_bytes": 1515
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e0d1fbd34be3d8eb48e543d057caf0a28f5decd5ddd3aa61217bea809dacc666",
+        "sha256_in_prefix": "e0d1fbd34be3d8eb48e543d057caf0a28f5decd5ddd3aa61217bea809dacc666",
+        "size_in_bytes": 4403
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3b004cfdd4688620f79917c3b954ea963f0a235881b9f33e0e027c84323b0a06",
+        "sha256_in_prefix": "3b004cfdd4688620f79917c3b954ea963f0a235881b9f33e0e027c84323b0a06",
+        "size_in_bytes": 909
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7c7b27e545d60ce8cf0948dccd2efbc8cdd6608e2e00e55274814c4ece989426",
+        "sha256_in_prefix": "7c7b27e545d60ce8cf0948dccd2efbc8cdd6608e2e00e55274814c4ece989426",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/decorit-0.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8e58d7e59a6a7f3ab48ad434aac05bde94abdc634879f893416ba59492e5968e",
+        "sha256_in_prefix": "8e58d7e59a6a7f3ab48ad434aac05bde94abdc634879f893416ba59492e5968e",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/decorit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ff07bc05a9a5c2923bdb4c560ade31876332344e51f69f6b869dbd1dd58f6c16",
+        "sha256_in_prefix": "ff07bc05a9a5c2923bdb4c560ade31876332344e51f69f6b869dbd1dd58f6c16",
+        "size_in_bytes": 186
+      },
+      {
+        "_path": "site-packages/decorit/decorit.py",
+        "path_type": "hardlink",
+        "sha256": "2eb546acfa31a507282a5cc188fb62afb16da83832eee0d7e84d1410f2614e14",
+        "sha256_in_prefix": "2eb546acfa31a507282a5cc188fb62afb16da83832eee0d7e84d1410f2614e14",
+        "size_in_bytes": 9508
+      },
+      {
+        "_path": "Lib/site-packages/decorit/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/decorit/__pycache__/decorit.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f3b01bc1b8981fddba82518493fa61001a42305211e5c503b85446c4dbb3dc3f",
+  "size": 10424,
+  "subdir": "noarch",
+  "timestamp": 1651058336743,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/decorit-0.2.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.2.0"
+}

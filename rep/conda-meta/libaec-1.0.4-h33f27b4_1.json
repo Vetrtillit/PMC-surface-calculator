@@ -1,0 +1,94 @@
+{
+  "build": "h33f27b4_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\.conda\\pkgs\\libaec-1.0.4-h33f27b4_1",
+  "features": "",
+  "files": [
+    "Library/bin/aec.dll",
+    "Library/bin/aec.exe",
+    "Library/bin/szip.dll",
+    "Library/include/libaec.h",
+    "Library/include/szlib.h",
+    "Library/lib/aec.lib",
+    "Library/lib/szip.lib"
+  ],
+  "fn": "libaec-1.0.4-h33f27b4_1.conda",
+  "legacy_bz2_md5": "0e6b3ffa6ee7c941485dacdfcb6dd6b4",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Admin\\.conda\\pkgs\\libaec-1.0.4-h33f27b4_1",
+    "type": 1
+  },
+  "md5": "3b59fc95d08728f77dcd579443a99e96",
+  "name": "libaec",
+  "package_tarball_full_path": "C:\\Users\\Admin\\.conda\\pkgs\\libaec-1.0.4-h33f27b4_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/aec.dll",
+        "path_type": "hardlink",
+        "sha256": "df0433d01ac7291c7f1247ad05502b09baf5ea37e6a91cf34ed575c895549328",
+        "sha256_in_prefix": "df0433d01ac7291c7f1247ad05502b09baf5ea37e6a91cf34ed575c895549328",
+        "size_in_bytes": 28672
+      },
+      {
+        "_path": "Library/bin/aec.exe",
+        "path_type": "hardlink",
+        "sha256": "59413bd67ab6942609b9297e30c432158b98b00f7cb1f84b1a50f900880c7419",
+        "sha256_in_prefix": "59413bd67ab6942609b9297e30c432158b98b00f7cb1f84b1a50f900880c7419",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Library/bin/szip.dll",
+        "path_type": "hardlink",
+        "sha256": "632b5ee99317793d5a32c65b1fbbfff472aeadc45e35f8bfdbfdf75833e9d41f",
+        "sha256_in_prefix": "632b5ee99317793d5a32c65b1fbbfff472aeadc45e35f8bfdbfdf75833e9d41f",
+        "size_in_bytes": 12288
+      },
+      {
+        "_path": "Library/include/libaec.h",
+        "path_type": "hardlink",
+        "sha256": "b2adb7928fb05483a6dd7b70502e23ddb535b7617a023ec49611e5b85ea25e4d",
+        "sha256_in_prefix": "b2adb7928fb05483a6dd7b70502e23ddb535b7617a023ec49611e5b85ea25e4d",
+        "size_in_bytes": 5403
+      },
+      {
+        "_path": "Library/include/szlib.h",
+        "path_type": "hardlink",
+        "sha256": "a5444a8b6eb74709144eb4c729c68734f014b83ee876fb75092f05257ead01d2",
+        "sha256_in_prefix": "a5444a8b6eb74709144eb4c729c68734f014b83ee876fb75092f05257ead01d2",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "Library/lib/aec.lib",
+        "path_type": "hardlink",
+        "sha256": "713eb5833624a1d2003244c89330404aa599da922f46edd6c865f8044b8a2cc8",
+        "sha256_in_prefix": "713eb5833624a1d2003244c89330404aa599da922f46edd6c865f8044b8a2cc8",
+        "size_in_bytes": 3024
+      },
+      {
+        "_path": "Library/lib/szip.lib",
+        "path_type": "hardlink",
+        "sha256": "28a33e31129c6e13598d3bd3c1e2c5062ee71b2f635066b2c06b08d6ddf6253f",
+        "sha256_in_prefix": "28a33e31129c6e13598d3bd3c1e2c5062ee71b2f635066b2c06b08d6ddf6253f",
+        "size_in_bytes": 2182
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1dea031e9772a804623cada39817e6d6789fb89a610d5b989131faee75aab401",
+  "size": 31397,
+  "subdir": "win-64",
+  "timestamp": 1593197296069,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libaec-1.0.4-h33f27b4_1.conda",
+  "version": "1.0.4"
+}

@@ -1,0 +1,298 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "decorit >=0.2.0",
+    "matplotlib-base",
+    "numpy",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\Admin\\.conda\\pkgs\\prettypyplot-0.10.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/INSTALLER",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/LICENSE",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/METADATA",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/RECORD",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/REQUESTED",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/WHEEL",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/direct_url.json",
+    "Lib/site-packages/prettypyplot-0.10.1.dist-info/top_level.txt",
+    "Lib/site-packages/prettypyplot/__init__.py",
+    "Lib/site-packages/prettypyplot/_cmaps/__init__.py",
+    "Lib/site-packages/prettypyplot/_cmaps/bownair.py",
+    "Lib/site-packages/prettypyplot/_cmaps/discrete.py",
+    "Lib/site-packages/prettypyplot/_cmaps/macaw.py",
+    "Lib/site-packages/prettypyplot/_cmaps/tol_discrete.py",
+    "Lib/site-packages/prettypyplot/_cmaps/turbo.py",
+    "Lib/site-packages/prettypyplot/colors.py",
+    "Lib/site-packages/prettypyplot/pyplot.py",
+    "Lib/site-packages/prettypyplot/style.py",
+    "Lib/site-packages/prettypyplot/stylelib/default.mplstyle",
+    "Lib/site-packages/prettypyplot/stylelib/latex.mplstyle",
+    "Lib/site-packages/prettypyplot/stylelib/minimal.mplstyle",
+    "Lib/site-packages/prettypyplot/subplots.py",
+    "Lib/site-packages/prettypyplot/texts.py",
+    "Lib/site-packages/prettypyplot/tools.py",
+    "Lib/site-packages/prettypyplot/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/bownair.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/discrete.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/macaw.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/tol_discrete.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/_cmaps/__pycache__/turbo.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/colors.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/pyplot.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/style.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/subplots.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/texts.cpython-310.pyc",
+    "Lib/site-packages/prettypyplot/__pycache__/tools.cpython-310.pyc"
+  ],
+  "fn": "prettypyplot-0.10.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Admin\\.conda\\pkgs\\prettypyplot-0.10.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "a28b21e6582af6060ee4418b555c0d45",
+  "name": "prettypyplot",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Admin\\.conda\\pkgs\\prettypyplot-0.10.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a8d0059a7b2672a5b5289377e38ad17c260c1908613756071c5347d62476d180",
+        "sha256_in_prefix": "a8d0059a7b2672a5b5289377e38ad17c260c1908613756071c5347d62476d180",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b96dcd43d9078b127234890618d3e2a9465034491647420481e18e7746d15d35",
+        "sha256_in_prefix": "b96dcd43d9078b127234890618d3e2a9465034491647420481e18e7746d15d35",
+        "size_in_bytes": 9431
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "998483c85d6673c08e545ce879019a0697606fb68cc99da4042b98cb8d1898f7",
+        "sha256_in_prefix": "998483c85d6673c08e545ce879019a0697606fb68cc99da4042b98cb8d1898f7",
+        "size_in_bytes": 2805
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a2241587fe4f9d033413780f762cf4f5608d9b08870cc6867abfde96a0777283",
+        "sha256_in_prefix": "a2241587fe4f9d033413780f762cf4f5608d9b08870cc6867abfde96a0777283",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "97b19d95bc52d93c250aab15c0dea6dd4501d9d7439189fd88211f4a1d007660",
+        "sha256_in_prefix": "97b19d95bc52d93c250aab15c0dea6dd4501d9d7439189fd88211f4a1d007660",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "site-packages/prettypyplot-0.10.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8bfbcaf7e05bc02c46f1f63c6844beb9956614731e4718e252611c46895de575",
+        "sha256_in_prefix": "8bfbcaf7e05bc02c46f1f63c6844beb9956614731e4718e252611c46895de575",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "site-packages/prettypyplot/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "aeab8e5ea0dc22d004e5794f3233d0167d60c26945c0d1e25310377fcf2a1f59",
+        "sha256_in_prefix": "aeab8e5ea0dc22d004e5794f3233d0167d60c26945c0d1e25310377fcf2a1f59",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6a59af14f97664b1087864e4e1cebc3a2e37f36e31b3641dfa360c7bd5a28388",
+        "sha256_in_prefix": "6a59af14f97664b1087864e4e1cebc3a2e37f36e31b3641dfa360c7bd5a28388",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/bownair.py",
+        "path_type": "hardlink",
+        "sha256": "495c3b30a6f781cbebd5188226bc87d1c0add596a05535a1cf1cc516850b2c96",
+        "sha256_in_prefix": "495c3b30a6f781cbebd5188226bc87d1c0add596a05535a1cf1cc516850b2c96",
+        "size_in_bytes": 11225
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/discrete.py",
+        "path_type": "hardlink",
+        "sha256": "3a9ae848d13ff16ca95a45f92cae4b4def2fc747cbe31ccc2e90de4228ae6382",
+        "sha256_in_prefix": "3a9ae848d13ff16ca95a45f92cae4b4def2fc747cbe31ccc2e90de4228ae6382",
+        "size_in_bytes": 2640
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/macaw.py",
+        "path_type": "hardlink",
+        "sha256": "fd2547bf39823d6f4f284347fd4285a60a83bd1b0fc837bcfbd00e875e58507b",
+        "sha256_in_prefix": "fd2547bf39823d6f4f284347fd4285a60a83bd1b0fc837bcfbd00e875e58507b",
+        "size_in_bytes": 11235
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/tol_discrete.py",
+        "path_type": "hardlink",
+        "sha256": "0e690d459b864c94aff3727cdaf7e4a6b8da71651593a588bca79fd7c37a7f52",
+        "sha256_in_prefix": "0e690d459b864c94aff3727cdaf7e4a6b8da71651593a588bca79fd7c37a7f52",
+        "size_in_bytes": 1628
+      },
+      {
+        "_path": "site-packages/prettypyplot/_cmaps/turbo.py",
+        "path_type": "hardlink",
+        "sha256": "2a25834ea105ba706a2b430b0f68859826aa21cb4aad3b03b510b23be917b2ef",
+        "sha256_in_prefix": "2a25834ea105ba706a2b430b0f68859826aa21cb4aad3b03b510b23be917b2ef",
+        "size_in_bytes": 8946
+      },
+      {
+        "_path": "site-packages/prettypyplot/colors.py",
+        "path_type": "hardlink",
+        "sha256": "aad52af6d0e71f318d427fe5324e32187d1e76f3d1870bc5900f7287f4886937",
+        "sha256_in_prefix": "aad52af6d0e71f318d427fe5324e32187d1e76f3d1870bc5900f7287f4886937",
+        "size_in_bytes": 10516
+      },
+      {
+        "_path": "site-packages/prettypyplot/pyplot.py",
+        "path_type": "hardlink",
+        "sha256": "13fc6484d2fe769760d875e6f9022753f91b4cc42eaf671431afd5643227ef03",
+        "sha256_in_prefix": "13fc6484d2fe769760d875e6f9022753f91b4cc42eaf671431afd5643227ef03",
+        "size_in_bytes": 13240
+      },
+      {
+        "_path": "site-packages/prettypyplot/style.py",
+        "path_type": "hardlink",
+        "sha256": "ee8b1e3559ad716320371edd7d5102d5930a20bfe160e68d075c67846a4ed9ef",
+        "sha256_in_prefix": "ee8b1e3559ad716320371edd7d5102d5930a20bfe160e68d075c67846a4ed9ef",
+        "size_in_bytes": 15638
+      },
+      {
+        "_path": "site-packages/prettypyplot/stylelib/default.mplstyle",
+        "path_type": "hardlink",
+        "sha256": "7664dff877aafb2cec45b0afe0344d0d92edbaee24cf48a43f4aacbb5e444446",
+        "sha256_in_prefix": "7664dff877aafb2cec45b0afe0344d0d92edbaee24cf48a43f4aacbb5e444446",
+        "size_in_bytes": 1169
+      },
+      {
+        "_path": "site-packages/prettypyplot/stylelib/latex.mplstyle",
+        "path_type": "hardlink",
+        "sha256": "ed6962015bb1fde943f5b5ce97030b27e4b7e9cda123ed07f42ce4650906775e",
+        "sha256_in_prefix": "ed6962015bb1fde943f5b5ce97030b27e4b7e9cda123ed07f42ce4650906775e",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "site-packages/prettypyplot/stylelib/minimal.mplstyle",
+        "path_type": "hardlink",
+        "sha256": "8c30413958fd78e497128ad7c3a29b052f25349811543ee5340bdc211b0c5f2d",
+        "sha256_in_prefix": "8c30413958fd78e497128ad7c3a29b052f25349811543ee5340bdc211b0c5f2d",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "site-packages/prettypyplot/subplots.py",
+        "path_type": "hardlink",
+        "sha256": "120e74a7d3e9944fea89727adc7ac023987d38d79e5c2431dea6b3b6fd2d3910",
+        "sha256_in_prefix": "120e74a7d3e9944fea89727adc7ac023987d38d79e5c2431dea6b3b6fd2d3910",
+        "size_in_bytes": 6256
+      },
+      {
+        "_path": "site-packages/prettypyplot/texts.py",
+        "path_type": "hardlink",
+        "sha256": "14f3805324c057c98cf245b1a1458b95ebf7eb6b55423cc8452341da3c2ce9b4",
+        "sha256_in_prefix": "14f3805324c057c98cf245b1a1458b95ebf7eb6b55423cc8452341da3c2ce9b4",
+        "size_in_bytes": 4939
+      },
+      {
+        "_path": "site-packages/prettypyplot/tools.py",
+        "path_type": "hardlink",
+        "sha256": "732e94855ab437b3bc4b67c5a0ea0a3e70d794d11b7ab1a90b258da3263f7c4e",
+        "sha256_in_prefix": "732e94855ab437b3bc4b67c5a0ea0a3e70d794d11b7ab1a90b258da3263f7c4e",
+        "size_in_bytes": 2454
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/bownair.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/discrete.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/macaw.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/tol_discrete.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/_cmaps/__pycache__/turbo.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/colors.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/pyplot.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/style.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/subplots.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/texts.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/prettypyplot/__pycache__/tools.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge::prettypyplot",
+  "sha256": "c2dd8f1c608c8a0dcaf3bfa798474966e0781f96536cc0c4a7ee223a962e58e6",
+  "size": 39297,
+  "subdir": "noarch",
+  "timestamp": 1701115025624,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/prettypyplot-0.10.1-pyhd8ed1ab_0.conda",
+  "version": "0.10.1"
+}
