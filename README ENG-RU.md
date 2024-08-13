@@ -1,6 +1,7 @@
 USE RELEASED VERSION IF YOU DON'T KNOW WHAT YOU ARE DOING / ПОЛЬЗУЙТЕСЬ ВЕРСИЕЙ ИЗ РЕЛИЗОВ ЕСЛИ НЕ ЗНАЕТЕ ЧТО ДЕЛАЕТЕ
 
 >What is this software?
+>
   This is an opencv2 script I created for my bachelor's thesis while studying at North Kazakhstan University named after M. Kozybaev.
   It is created to calculate surface area of polar mesospheric clouds in 30-degree longtitudal sectors on CIPS images
   This means, that if you combine surface area of all 12 sectors you can get overall surface for selected image.
@@ -20,6 +21,7 @@ You can contact me, aside conventional means, through Telegram: @Vetrtillit or e
 The software is distributed under Creative Commons license, which means you can use it as you wish and modify in any ways because I despise the concept of intellectual property, it's free to use. 
 
 > Для чего эта программа?
+> 
   Это скрипт opencv2, который я написал для своего диплома, пока учился в Северо-Казахстанском Университете им. М. Козыбаева.
   Создан он был, чтобы расчитывать площадь серебристых облаков в 30-градусных долготных секторах на изображениях CIPS.
   Если вам нужна общая площадь для каждого изображения -- вы сможете сложить результаты для секторов чтобы получить общую площадь.
