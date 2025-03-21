@@ -10,7 +10,7 @@ USE RELEASED VERSION IF YOU DON'T KNOW WHAT YOU ARE DOING / ПОЛЬЗУЙТЕС
   1. Go to https://lasp.colorado.edu/aim/download/pmc/l3a/ and download data of interest.
   2. You will get a zip folder which will contain another folder with images (level_3) -- i recommend renaming it to reflect corresponding year and hemisphere, but first you should unzip it somewhere else.
   3. Check if the path to the folder you used to unzip your data is fully in Latin, since the script will crash if the path at any point is not in Latin.
-  4. This means if your path looks loke that "C:\Users\Иван\Documents\Img\North\2022" -- script will complain about path uninterity (with a flashing messages in cmd) and terminate itself, so use instead something like "C:\Users\Vetrtillit\Documents\Img\North\2022"
+  4. This means if your path looks loke that "C:\Users\John\Documents\Img\North\2022" -- script will complain about path unintegrity (with a flashing messages in cmd) and terminate itself, so use instead something like "C:\Users\Vetrtillit\Documents\Img\North\2022"
   5. If you path is correct, launch the Calculate executive you downloaded from GitHub, you will be asked to choose a folder -- shoose the folder you just unzipped (clearing it up is not necessary, script will sort files by itself).
   6. Then you will be asked which background image script should use -- click "Север" if your images are for nothern hemisphere and "Юг" is, respectively, for southern. WARNING: incorrect background image will create massive deviation in calculated data.
   7. If all was done correctly, in a few seconds script will terminate itself after successful execution and "surface_area.xlsx" file should be created in your selected folder. That's it, how you will use this book is now up to you.
