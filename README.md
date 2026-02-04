@@ -17,7 +17,7 @@ USE RELEASED VERSION IF YOU DON'T KNOW WHAT YOU ARE DOING / ПОЛЬЗУЙТЕС
 
 Thank you for using my script! I will appreciate if you let me know what discoveries you have made with it, will be sincerely grateful for mentioning in your scienfic works (my full name is Roman Alexandrovich Kleksin or Kleksin R.A.) 
 and will gladly answer your question and accept any feedback. 
-You can contact me, aside conventional means, through Telegram: @Vetrtillit or email: fjolkunnigr@yandex.kz
+You can contact me, aside conventional means, through Telegram: @Vetrauga or email: fjolkunnigr@yandex.kz
 The software is distributed under Creative Commons license, which means you can use it as you wish and modify in any ways.
 
 > Для чего эта программа?
@@ -38,5 +38,5 @@ The software is distributed under Creative Commons license, which means you can 
 
 Спасибо за использование моего скрипта! Буду признателен, если дадите знать об открытиях, что были совершены с его помощью, и искренне благодарен за упоминание в ваших работах (мое полное имя -- Клексин Роман Александрович или Клексин Р.А.),
 также с радостью отвечу на ваши вопросы и приму любые отзывы.
-Со мной можно связаться, помимо очевидных методов, с помощью Телеграма: @Vetrtillit или email: fjolkunnigr@yandex.kz
+Со мной можно связаться, помимо очевидных методов, с помощью Телеграма: @Vetrauga или email: fjolkunnigr@yandex.kz
 Программа распространяется под лицензией Creative Commons, что означает, что использовать и модифицировать её можно как угодно.
