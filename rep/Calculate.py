@@ -69,14 +69,14 @@ choose_background()
 
 # Reading the background image in grayscale
 background = cv2.imread(background_path, cv2.IMREAD_GRAYSCALE)
-# The constant of conversion between pixels of the image and square kilometers
+# The constant of conversion between pixels of the image and square kilometers, it is given within the dataset with the images
 PIXEL_TO_KM2 = 7.5
 
 # Surface area calculating function
 def calculate_sector_areas(image, background):
     # Background substraction
     foreground = cv2.absdiff(image, background)
-    # Binarisation of the image
+    # Setting a threshold to exclude dim pixels (most of them are a part of the background that wasn't substracted)
     _, thresh = cv2.threshold(foreground, 20, 255, cv2.THRESH_BINARY)
     # Definition of the center and radius
     center = (int(image.shape[0] / 2), int(image.shape[1] / 2))
